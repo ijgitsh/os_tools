@@ -51,7 +51,7 @@ Replace `<your_model>` with the model of your choice.
 Now, create an alias to make `yo` a command that calls this script:
 
 ```sh
-alias yo='sh /Users/imanjohari/Documents/GitHub/os_tool/os_llm.sh'
+alias yo='sh <full path>/os_llm.sh'
 ```
 
 To find your **full script path**, run:
