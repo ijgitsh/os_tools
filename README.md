@@ -63,7 +63,7 @@ pwd
 To make this alias permanent, add it to your **shell configuration** (`.zshrc` or `.bashrc`) and reload it:
 
 ```sh
-echo "alias yo='sh /Users/imanjohari/Documents/GitHub/os_tool/os_llm.sh'" >> ~/.zshrc
+echo "alias yo='sh <full path>/os_llm.sh'" >> ~/.zshrc
 source ~/.zshrc
 ```
 
