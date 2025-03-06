@@ -92,16 +92,7 @@ yo "search for files containing 'error' inside them"
 grep -iRl "error" .
 ```
 
-### **Example 3: Install Docker on macOS**
-```sh
-yo "install Docker using Homebrew on macOS"
-```
-**Expected Output:**
-```sh
-brew install --cask docker
-```
-
-### **Example 4: Check Python Version**
+### **Example 3: Check Python Version**
 ```sh
 yo "what is the version of Python3 installed?"
 ```
